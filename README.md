@@ -1,4 +1,4 @@
-# FlaskWeb : Basic Webite with Flask
+# FlaskWeb : Basic Website with Flask
 
 ## About ME
 
